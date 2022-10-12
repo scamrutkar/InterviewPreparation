@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a57ad4-7702-4158-95cb-f18a8d69f3d9" name="Default Changelist" comment="" />
+    <list default="true" id="24a57ad4-7702-4158-95cb-f18a8d69f3d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/org/javacase/sagar/algo/greedy/KruskalMSTAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/META-INF/DataStructuresAndAlgorithm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/AddingArrayElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/AddingArrayElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/KLargestElementInStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/KLargestElementInStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/KLargestElementsFromArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/KLargestElementsFromArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MedianOfStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MedianOfStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MergeKSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MergeKSortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MergeKSortedLinkLists$MinHeapNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MergeKSortedLinkLists$MinHeapNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MergeKSortedLinkLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MergeKSortedLinkLists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MinCostOfRope.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MinCostOfRope.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MinHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MinHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/Node.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,18 +32,32 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2FCW48UHFxkpo71QLVYs5AVLZQw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-  </component>
-  <component name="RunManager" selected="Application.KLargestElementInStream">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Veritas/Personal/InterviewPreparation/DataStructuresAndAlgorithm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.PrimsMSTAlgo">
     <configuration name="AddingArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.ds.heap.AddingArrayElements" />
       <module name="DataStructuresAndAlgorithm" />
@@ -52,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KLargestElementsFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.ds.heap.KLargestElementsFromArray" />
+    <configuration name="KruskalMSTAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.algo.greedy.KruskalMSTAlgo" />
       <module name="DataStructuresAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.javacase.sagar.ds.heap.*" />
+          <option name="PATTERN" value="org.javacase.sagar.algo.greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeKSortedLinkLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.ds.heap.MergeKSortedLinkLists" />
+    <configuration name="PrimsMSTAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.algo.greedy.PrimsMSTAlgo" />
       <module name="DataStructuresAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.javacase.sagar.ds.heap.*" />
+          <option name="PATTERN" value="org.javacase.sagar.algo.greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,14 +125,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimsMSTAlgo" />
+        <item itemvalue="Application.KruskalMSTAlgo" />
         <item itemvalue="Application.KLargestElementInStream" />
         <item itemvalue="Application.AddingArrayElements" />
         <item itemvalue="Application.MedianOfStream" />
-        <item itemvalue="Application.KLargestElementsFromArray" />
-        <item itemvalue="Application.MergeKSortedLinkLists" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -114,26 +147,19 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="533" y="159" key="#com.intellij.ide.util.MemberChooser" timestamp="1664028518947">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="533" y="159" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1664028518947" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1664086058278">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1664086058278" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1664086058278">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1664086058278" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1664086058277">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1664086058277" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1664086058278">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1664086058278" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
