@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a57ad4-7702-4158-95cb-f18a8d69f3d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/javacase/sagar/algo/greedy/KruskalMSTAlgo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/META-INF/DataStructuresAndAlgorithm.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/AddingArrayElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/AddingArrayElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/KLargestElementInStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/KLargestElementInStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/KLargestElementsFromArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/KLargestElementsFromArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MedianOfStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MedianOfStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MergeKSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MergeKSortedArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MergeKSortedLinkLists$MinHeapNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MergeKSortedLinkLists$MinHeapNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MergeKSortedLinkLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MergeKSortedLinkLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MinCostOfRope.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MinCostOfRope.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MinHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/MinHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/org/javacase/sagar/ds/heap/Node.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +26,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FCW48UHFxkpo71QLVYs5AVLZQw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,16 +43,16 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrimsMSTAlgo">
-    <configuration name="AddingArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.ds.heap.AddingArrayElements" />
+  <component name="RunManager" selected="Application.KosarajusAlogorithm">
+    <configuration name="BFSTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.ds.graph.BFSTraversal" />
       <module name="DataStructuresAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.javacase.sagar.ds.heap.*" />
+          <option name="PATTERN" value="org.javacase.sagar.ds.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KLargestElementInStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.ds.heap.KLargestElementInStream" />
+    <configuration name="DFSTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.ds.graph.DFSTraversal" />
       <module name="DataStructuresAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.javacase.sagar.ds.heap.*" />
+          <option name="PATTERN" value="org.javacase.sagar.ds.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KruskalMSTAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.algo.greedy.KruskalMSTAlgo" />
+    <configuration name="KosarajusAlogorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.ds.graph.KosarajusAlogorithm" />
       <module name="DataStructuresAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.javacase.sagar.algo.greedy.*" />
+          <option name="PATTERN" value="org.javacase.sagar.ds.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MedianOfStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.ds.heap.MedianOfStream" />
+    <configuration name="MotherVertex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.ds.graph.MotherVertex" />
       <module name="DataStructuresAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.javacase.sagar.ds.heap.*" />
+          <option name="PATTERN" value="org.javacase.sagar.ds.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimsMSTAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.algo.greedy.PrimsMSTAlgo" />
+    <configuration name="NodeAtGivenLevel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.ds.graph.NodeAtGivenLevel" />
       <module name="DataStructuresAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.javacase.sagar.algo.greedy.*" />
+          <option name="PATTERN" value="org.javacase.sagar.ds.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimsMSTAlgo" />
-        <item itemvalue="Application.KruskalMSTAlgo" />
-        <item itemvalue="Application.KLargestElementInStream" />
-        <item itemvalue="Application.AddingArrayElements" />
-        <item itemvalue="Application.MedianOfStream" />
+        <item itemvalue="Application.KosarajusAlogorithm" />
+        <item itemvalue="Application.MotherVertex" />
+        <item itemvalue="Application.NodeAtGivenLevel" />
+        <item itemvalue="Application.DFSTraversal" />
+        <item itemvalue="Application.BFSTraversal" />
       </list>
     </recent_temporary>
   </component>
