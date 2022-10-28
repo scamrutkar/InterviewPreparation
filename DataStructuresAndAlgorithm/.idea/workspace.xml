@@ -46,22 +46,9 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.KosarajusAlogorithm">
-    <configuration name="BFSTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.ds.graph.BFSTraversal" />
-      <module name="DataStructuresAndAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.javacase.sagar.ds.graph.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DFSTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.ds.graph.DFSTraversal" />
+  <component name="RunManager" selected="Application.TransitiveClosureGraph">
+    <configuration name="FlyodWarshallAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.ds.graph.FlyodWarshallAlgorithm" />
       <module name="DataStructuresAndAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -112,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TransitiveClosureGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javacase.sagar.ds.graph.TransitiveClosureGraph" />
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.javacase.sagar.ds.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TransitiveClosureGraph" />
+        <item itemvalue="Application.FlyodWarshallAlgorithm" />
         <item itemvalue="Application.KosarajusAlogorithm" />
         <item itemvalue="Application.MotherVertex" />
         <item itemvalue="Application.NodeAtGivenLevel" />
-        <item itemvalue="Application.DFSTraversal" />
-        <item itemvalue="Application.BFSTraversal" />
       </list>
     </recent_temporary>
   </component>
